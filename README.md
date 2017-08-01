@@ -8,5 +8,5 @@
   chat_server:start(Port).
 ```
 
-### This will create a new session. Users can join the session by connecting to the given port through telnet. and logging in with a username.
+### This will create a new session. Users can join the session by connecting to the given port through telnet and logging in with a username.
  
